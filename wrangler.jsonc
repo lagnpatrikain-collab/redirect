@@ -1,0 +1,5 @@
+{
+  "name": "my-worker",
+  "main": "src/main.js",
+  "compatibility_date": "2026-07-03"
+}
